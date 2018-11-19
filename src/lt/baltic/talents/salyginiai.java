@@ -1,8 +1,6 @@
 package lt.baltic.talents;
 
-
 import java.util.Scanner;
-import java.io.*;
 
 
 public class salyginiai {
