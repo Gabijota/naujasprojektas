@@ -9,7 +9,7 @@ public class loopWhile {
 
         while (loopVal < 101) {
             System.out.println("Loop Value = " + loopVal);
-            loopVal++; 
+            loopVal++;
         }
 
 

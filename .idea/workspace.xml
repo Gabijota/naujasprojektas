@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a27f6f87-8f0f-4565-be4d-47f24ce4fc48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,23 +25,24 @@
     <session id="1325009779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="43" />
-          <entry key="java" value="2341" />
+          <entry key="java" value="2351" />
           <entry key="txt" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2341" />
+          <entry key="JAVA" value="2351" />
           <entry key="PLAIN_TEXT" value="146" />
         </counts>
       </usages-collector>
@@ -67,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/vidurkis_iv_is.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
+            <state relative-caret-position="855">
               <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/testas19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -89,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimas.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimasIsvedimas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -106,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenys_is_txt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,11 +118,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -127,17 +130,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="56" />
+            <state relative-caret-position="195">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -169,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/uzduotis1.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/uzduotis2.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/loops.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/loopFor.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimas.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/vidurkisIveduIsvedu.java" />
@@ -182,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/salyginiai.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/testas19.java" />
         <option value="$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java" />
       </list>
     </option>
   </component>
@@ -193,7 +196,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="216" />
-    <option name="y" value="50" />
+    <option name="y" value="23" />
     <option name="width" value="734" />
     <option name="height" value="820" />
   </component>
@@ -232,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542611254159" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542616079723" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -352,18 +355,19 @@
       <workItem from="1542271866962" duration="426000" />
       <workItem from="1542550663161" duration="17148000" />
       <workItem from="1542609725933" duration="74000" />
-      <workItem from="1542609804319" duration="1417000" />
+      <workItem from="1542609804319" duration="1907000" />
+      <workItem from="1542616153994" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19065000" />
+    <option name="totallyTimeSpent" value="20283000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="216" y="50" width="734" height="820" extended-state="0" />
+    <frame x="216" y="23" width="734" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27890173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28612718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,13 +473,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/testas19">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/testas19" />
     <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/vidurkis_iv_is.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
+        <state relative-caret-position="855">
           <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/testas19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimasIsvedimas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenys_is_txt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -489,55 +522,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/testas19.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenuIvedimasIsvedimas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/duomenys_is_txt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="56" />
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/baltic/talents/loopDoWhile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>

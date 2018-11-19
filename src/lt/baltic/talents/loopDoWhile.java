@@ -12,6 +12,5 @@ public class loopDoWhile {
         }
         while (loopVal < 101);
 
-
     }
 }
